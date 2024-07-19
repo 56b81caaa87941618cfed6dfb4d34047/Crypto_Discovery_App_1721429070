@@ -18,5 +18,11 @@
         "content": "<button>Hello World</button>",
         "timestamp": "19072024224549",
         "message_id": "guest19072024224547"
+    },
+    {
+        "role": "user",
+        "content": "add a sidebar with the fields Home, About and Contact US",
+        "timestamp": "19072024224654",
+        "message_id": "guest19072024224653"
     }
 ]
