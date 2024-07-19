@@ -1,5 +1,14 @@
 [
     {
+        "role": "user",
+        "content": "add a sidebar with the fields Home, About and Contact US",
+        "message_id": "guest19072024224653",
+        "timestamp": "19072024224654",
+        "component_file_name": "simple_footer_component_1721429071",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "<button>Hello World</button>",
         "message_id": "guest19072024224547",
