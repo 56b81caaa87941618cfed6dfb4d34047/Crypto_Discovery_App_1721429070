@@ -93,5 +93,24 @@
         "static": false,
         "isDraggable": true,
         "isResizable": true
+    },
+    "dark_header_component_1721429101.js": {
+        "id": "dark_header_component-4b5e1f1a-36ee-c498-c768-296f26419592",
+        "name": "dark_header_component",
+        "type": "markdown",
+        "metadata": {},
+        "w": 7,
+        "h": 7,
+        "x": "50",
+        "y": "50",
+        "i": "__dropping-elem__",
+        "minW": 3,
+        "maxW": 12,
+        "minH": 1,
+        "maxH": 20,
+        "moved": false,
+        "static": false,
+        "isDraggable": true,
+        "isResizable": true
     }
 }
