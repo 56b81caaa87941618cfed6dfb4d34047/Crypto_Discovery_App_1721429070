@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_acknowledge",
+        "content": "Sure, here's the code for adding a sidebar with those three fields:\n\n```\n<div id=\"sidebar\">\n  <h3>Navigation</h3>\n  <ul>\n    <li><a href=\"/\">Home</a></li>\n    <li><a href=\"/about\">About</a></li>\n    <li><a href=\"/contact-us\">Contact Us</a></li>\n  </ul>\n</div>\n```\n\nYou can customize the URLs and text as needed. The CSS for styling the sidebar would depend on your website's design.",
+        "message_id": "guest19072024224653",
+        "timestamp": "19072024224655",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "add a sidebar with the fields Home, About and Contact US",
         "message_id": "guest19072024224653",
